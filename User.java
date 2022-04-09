@@ -1,3 +1,7 @@
 public class User {
-    String word= "word";
+    private Queue<Song>
+    //addSong
+    //voteSong
+    //viewSongs
+    //
 }
